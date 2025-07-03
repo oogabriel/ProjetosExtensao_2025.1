@@ -33,7 +33,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: #4b8056;
+  color: #d3d3d3;
   font-weight: bold;
 }
 
@@ -43,11 +43,11 @@ nav ul li a {
   justify-content: center;
   gap: 20px;
   padding: 40px 20px;
-  background: #c4ca70;
+  background: #797979;
 }
 
 .card {
-  background-color: #f9ffd4;
+  background-color: #5c5c5c;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   text-align: center;
