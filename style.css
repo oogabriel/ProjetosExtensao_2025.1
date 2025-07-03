@@ -8,7 +8,7 @@ body {
 
 header {
   background-color:#fdffec;
-  border-bottom: 2px solid  #4b8056;
+  border-bottom: 2px solid  #000000;
   padding: 20px;
   text-align: center;
 }
@@ -16,7 +16,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 24px;
-  color: #3d3d3d;
+  color: #ffffff;
 }
 
 nav ul {
