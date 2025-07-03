@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #080808;
-  color: #707070;
+  background-color: #353535;
+  color: #ffffff;
   max-width: 100%;
 }
 
 header {
-  background-color:#d3d3d3;
-  border-bottom: 2px solid  #3b3b3b;
+  background-color:#ffffff;
+  border-bottom: 2px solid  #000000;
   padding: 20px;
   text-align: center;
 }
@@ -16,7 +16,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 24px;
-  color: #414141;
+  color: #707070;
 }
 
 nav ul {
@@ -33,7 +33,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: #d3d3d3;
+  color: #757575;
   font-weight: bold;
 }
 
@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 .card button {
-  background-color: #4b8056;
+  background-color: #868686;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -72,7 +72,7 @@ nav ul li a {
 
 .apresentacao {
   text-align: center;
-  background-color:#f9ffd4;
+  background-color:#707070;
   padding: 40px 20px;
   border-radius: 10px;
   margin: 20px auto;
@@ -89,7 +89,7 @@ nav ul li a {
 }
 
 .apresentacao button {
-  background-color: #4b8056;
+  background-color: #707070;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -99,8 +99,8 @@ nav ul li a {
 
 .destaques {
   padding: 20px, 20px;
-  background-color: #f9ffd4;
-  border-top: 2px solid  #4b8056;;
+  background-color: #ffffff;
+  border-top: 2px solid  #555555;;
 }
 
 .destaques h3 {
