@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #353535;
-  color: #f80e0e;
+  color: #f8a8a8;
   max-width: 100%;
 }
 
@@ -99,7 +99,7 @@ nav ul li a {
 
 .destaques {
   padding: 20px, 20px;
-  background-color: #ffffff;
+  background-color: #f35353;
   border-top: 2px solid  #555555;;
 }
 
