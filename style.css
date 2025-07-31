@@ -90,7 +90,7 @@ nav ul li a {
 
 .apresentacao button {
   background-color: #707070;
-  color: white;
+  color: rgb(241, 28, 28);
   padding: 10px 20px;
   border: none;
   border-radius: 8px;
@@ -99,7 +99,7 @@ nav ul li a {
 
 .destaques {
   padding: 20px, 20px;
-  background-color: #f35353;
+  background-color: #ffffff;
   border-top: 2px solid  #555555;;
 }
 
